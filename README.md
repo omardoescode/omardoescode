@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omardoescode
 - 👀 I’m interested in software enginnering
-- 🌱 I’m currently learning data structures & algorthms
+- 🌱 I’m currently learning Object Oriented Design & Analysis
 
 <!---
 omardoescode/omardoescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
