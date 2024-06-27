@@ -22,7 +22,6 @@
 # Current Job
 
 - Volunteering at a local charity to give kids an introductory course to programming and specifically the C++ language.
-- Intern at CodeAlpha.
 
 # Current Repos I am working on
 
