@@ -26,7 +26,7 @@
 # Current Repos I am working on
 
 - [OSSU](https://github.com/omardoescode/OSSU)
-- [Problem Solving](https://github.com/omardoescode/OSSU)
+- [Hack Syntax Analyzer](https://github.com/omardoescode/Hack-Syntax-Analyzer)
 
 # Stats
 
