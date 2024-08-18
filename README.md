@@ -12,24 +12,14 @@
 
 </div>
 
-# What I am learning right now
-
-- Taking courses in [OSSU](https://github.com/omardoescode/OSSU). Currently learning: Maths for computer science and Nand2Tetris courses
-- Learning more about C++, design patterns, OOP design, building architecture and services.
-- Reading books about how to get better at coding, working in teams, producing refactored clean code
-
-# Current Job
-
-- Volunteering at a local charity to give kids an introductory course to programming and specifically the C++ language.
-
 # Current Repos I am working on
 
 - [OSSU](https://github.com/omardoescode/OSSU)
-- [Hack Syntax Analyzer](https://github.com/omardoescode/Hack-Syntax-Analyzer)
+- [Data structrues and algorithms in C++](https://github.com/omardoescode/Data-structures-and-algorithms-in-c-/)
 
-<!-- # Stats -->
-<!---->
-<!-- <p> -->
-<!--     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omardoescode&show_icons=true&count_private=true&theme=github_dark" />&nbsp;&nbsp; -->
-<!--     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omardoescode&layout=compact&theme=github_dark" />&nbsp;&nbsp; -->
-<!-- </p> -->
+# Stats
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omardoescode&show_icons=true&count_private=true&theme=github_dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omardoescode&layout=compact&theme=github_dark" />&nbsp;&nbsp;
+</p>
