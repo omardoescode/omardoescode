@@ -30,5 +30,5 @@
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=omardoescode&show_icons=true&count_private=true&theme=github_dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omardoescode&layout=compact&theme=github_darkhide=racket" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omardoescode&layout=compact&theme=github_dark&hide=racket" />&nbsp;&nbsp;
 </p>
