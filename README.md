@@ -6,6 +6,7 @@
 
 ## 👷 Currently building
 - A storage engine in Rust based on LSM trees and SSTables.
+- A secret project 🤫 [Will talk about later]
 
 ## 📌 Pinned Projects
 - [PandoraDrive](https://github.com/DEVUCP/PandoraDrive-server/): A cloud storage service to setup on local routers on home labs, with some chatbot for trivia when bored
