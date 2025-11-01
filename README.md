@@ -1,12 +1,9 @@
-# 👋 Hello, I'm Omar Mohammad
-- 🧑‍💻 A backend engineering student with background in Typescript.
-- 🖊️ I'm currently investigating the world of database internals
-- 📚 I'm reading **Designing Data Intensive Application**
+![decoration](./github-header-banner.png)
 
-
-## 👷 Currently building
-- A storage engine in Rust based on LSM trees and SSTables.
-- A secret project 🤫 [Will talk about later]
+## 🔨 Current Projects
+- **[Tandem](https://github.com/omardoescode/tandem)**: A minimal, gamified study-with-me session-based software
+- **[CureIt](https://github.com/omardoescode/CureIt)**: A Reddit-like platform for community-driven curation. Find the best content in an instant 
+- **[Chronicle](https://github.com/omardoescode/Chronicle)**:  A Code stats tool for vscode (and neovim soon). 
 
 ## 📌 Pinned Projects
 - [PandoraDrive](https://github.com/DEVUCP/PandoraDrive-server/): A cloud storage service to setup on local routers on home labs, with some chatbot for trivia when bored
@@ -14,6 +11,5 @@
 - [huff](https://github.com/omardoescode/Huffman-Compression):  A Tool to compress and uncompress text files using an implementation of the huffman tree 
 
 ## 📋 Some facts:
-1. Student at Egypt University of Informatics
-2. Fun fact: I use arch btw (🤓)
-
+1. I use arch btw
+2. Student at Egypt University of Informatics
