@@ -16,4 +16,4 @@
 <br />
 <br />
 
-![omardoescode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omardoescode&bg_color=181825&color=fcfcfa&line=c4e3ff&point=f38ba8&area=true&hide_border=true)
+![omardoescode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omardoescode&bg_color=181825&color=CDD6F4&line=EAE4FF&point=F38BA8&area=true&hide_border=true)
