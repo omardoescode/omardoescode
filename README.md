@@ -3,11 +3,13 @@
 
 <samp align="center">
 <div align="center">
-  Reading: <a href=""> Fundamentals of Data Engineering </a>
+  Reading: <a href="https://www.oreilly.com/library/view/learning-domain-driven-design/9781098100124/" target="_blank"> Learning Domain-Driven Design </a> 
+<br />
+  Studying: <a href="https://www.coursera.org/specializations/software-architecture-big-data"> Software Architecture for Big Data </a>
   <br />
   Crafting:
-  <a href="https://github.com/omardoescode/CureIt">CureIt</a> |
   <a href="https://github.com/omardoescode/Tandem">Tandem</a>  |
+  <a href="https://github.com/omardoescode/CureIt">CureIt</a> |
   <a href="https://github.com/omardoescode/CureIt">Chronicle</a>
   <br />
 </div>
